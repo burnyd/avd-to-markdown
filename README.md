@@ -8,6 +8,7 @@ uv run python main.py
 
 #### Flags
 -o is the output file.  The deault is avddiagram.md
+
 -y is the input file a example is located within group_vars DC1_FABRIC.yaml
 
 #### Example
